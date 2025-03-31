@@ -12,7 +12,7 @@ Professor: [Marco André Mendes](github.com/marcoandre)
 - [Davi da Rosa](https://github.com/ohdavir)
 
 **Links do Projeto:**
-- [Documentação](https://github.com/HenriqueVogelsanger/Evergreen-Leaf-PI)
-- [Figma](https://github.com/HenriqueVogelsanger/Evergreen-Leaf-PI)
+- [Documentação](https://github.com/Evergreen-Leaf)
+- [Figma](https://www.figma.com/design/U0rbN7Tdzqr1EkRqOXGk7C/Evergreen-Leaf?node-id=0-1&p=f&t=7yE6JiJydnvjPArI-0)
 - Frontend: [Repositorio](https://github.com/HenriqueVogelsanger/Evergreen-Leaf-PI)
 - Backend: [Repositorio](https://github.com/HenriqueVogelsanger/Evergreen-Leaf-PI)
