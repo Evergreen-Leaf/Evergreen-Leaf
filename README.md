@@ -3,7 +3,7 @@ Evergreen Leaf
 
 Este é um site de projeto integrador da 3info2, sobre um sistema de venda de produtos naturais, que busca maior acessibilidade e modernidade quanto aos sites existentes desse tema.
 
-Professor: [Marco André Mendes](github.com/marcoandre)
+Professor: [Marco André Mendes](https://github.com/marrcandre)
 
 **Equipe:**
 - [HenriqueVogelsanger](https://github.com/HenriqueVogelsanger)
