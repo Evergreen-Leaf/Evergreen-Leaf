@@ -1,7 +1,7 @@
 # Evergreen Leaf - Projeto Integrador
 Evergreen Leaf 
 
-É uma loja de produtos naturais dedicada ao bem-estar e à sustentabilidade. Com uma seleção cuidadosamente escolhida de alimentos orgânicos, chás, cosméticos naturais e suplementos, nosso objetivo é proporcionar uma vida mais saudável e equilibrada. Priorizamos ingredientes puros, livres de aditivos artificiais, e apoiamos práticas ecológicas para cuidar do planeta e das pessoas. Na Evergreen Leaf, a natureza inspira cada detalhe, trazendo mais frescor e vitalidade ao seu dia a dia.
+Este é um site de projeto integrador da 3info2, sobre um sistema de venda de produtos naturais, que busca maior acessibilidade e modernidade quanto aos sites existentes desse tema.
 
 Professor: [Marco André Mendes](github.com/marcoandre)
 
@@ -18,5 +18,7 @@ Professor: [Marco André Mendes](github.com/marcoandre)
 - Backend: [Repositorio](https://github.com/Evergreen-Leaf/Evergreen-Leaf)
 
 # 1. Desenvolvimento...
+É uma loja de produtos naturais dedicada ao bem-estar e à sustentabilidade. Com uma seleção cuidadosamente escolhida de alimentos orgânicos, chás, cosméticos naturais e suplementos, nosso objetivo é proporcionar uma vida mais saudável e equilibrada. Priorizamos ingredientes puros, livres de aditivos artificiais, e apoiamos práticas ecológicas para cuidar do planeta e das pessoas. Na Evergreen Leaf, a natureza inspira cada detalhe, trazendo mais frescor e vitalidade ao seu dia a dia.
+
 
 # 2. Situação Problema...
